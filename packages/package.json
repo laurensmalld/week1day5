@@ -1,0 +1,25 @@
+{
+  "name": "packages",
+  "version": "1.0.0",
+  "description": "working with packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurensmalld/week1day5.git"
+  },
+  "keywords": [
+    "fun"
+  ],
+  "author": "Lauren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurensmalld/week1day5/issues"
+  },
+  "homepage": "https://github.com/laurensmalld/week1day5#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
